@@ -1,0 +1,2 @@
+whatever where clause does for select
+the same is done by having for groupby
